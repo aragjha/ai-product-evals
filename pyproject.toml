@@ -1,0 +1,12 @@
+[project]
+name = "ai-product-evals"
+version = "0.1.0"
+description = "Baseline versus candidate evals with deterministic graders and a written release rule"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Anurag Jha"}]
+dependencies = []
+
+[project.optional-dependencies]
+live = ["anthropic"]

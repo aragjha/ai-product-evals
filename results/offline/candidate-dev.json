@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "system": "offline",
+    "variant": "candidate",
+    "split": "dev",
+    "model": "offline-candidate",
+    "system_version": "min_overlap=2",
+    "label": "fixture: deterministic offline substitute, not a model",
+    "dataset": "v1",
+    "dataset_sha": "28a4a15c83da",
+    "generated": "2026-10-15T06:37:11+00:00"
+  },
+  "metrics": {
+    "n": 16,
+    "success_rate": 0.875,
+    "schema_valid_rate": 1.0,
+    "answered": 13,
+    "evidence_support_rate": 0.846,
+    "correct_abstain_rate": 0.75,
+    "false_abstain_rate": 0.0,
+    "latency_ms_p50": 0.52,
+    "latency_ms_p95": 0.62,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0,
+    "cost_per_100_usd": 0.0
+  },
+  "items": [
+    {
+      "id": "d01",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d02",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d03",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d04",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d05",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d06",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d07",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d08",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d09",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d10",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d11",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": false,
+      "evidence_supported": false
+    },
+    {
+      "id": "d12",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "d13",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": false,
+      "evidence_supported": false
+    },
+    {
+      "id": "d14",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": true,
+      "evidence_supported": null
+    },
+    {
+      "id": "d15",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": true,
+      "evidence_supported": null
+    },
+    {
+      "id": "d16",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": true,
+      "evidence_supported": null
+    }
+  ]
+}

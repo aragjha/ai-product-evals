@@ -1,0 +1,12 @@
+{"id": "h01", "question": "Are monthly subscriptions refundable?", "answerable": true, "expected_facts": ["not refunded"], "expected_docs": ["billing"]}
+{"id": "h02", "question": "Is sales tax included in the price?", "answerable": true, "expected_facts": ["do not include sales tax"], "expected_docs": ["billing"]}
+{"id": "h03", "question": "Will edits I make on a plane show up on my other devices later?", "answerable": true, "expected_facts": ["sync when you reconnect"], "expected_docs": ["offline"]}
+{"id": "h04", "question": "Can I export every notebook in one go on the Free plan?", "answerable": true, "expected_facts": ["plus plan only"], "expected_docs": ["export"]}
+{"id": "h05", "question": "Can people with a public link edit my notes?", "answerable": true, "expected_facts": ["read only"], "expected_docs": ["sharing"]}
+{"id": "h06", "question": "Can Lumen support staff read my notes?", "answerable": true, "expected_facts": ["cannot see the content"], "expected_docs": ["security"]}
+{"id": "h07", "question": "Can I get a note back once it has been in Trash for more than a month?", "answerable": true, "expected_facts": ["cannot be restored"], "expected_docs": ["trash"]}
+{"id": "h08", "question": "Where does a restored note go?", "answerable": true, "expected_facts": ["original notebook"], "expected_docs": ["trash"]}
+{"id": "h09", "question": "How big can attachments be in an export?", "answerable": true, "expected_facts": ["25 mb"], "expected_docs": ["export"]}
+{"id": "h10", "question": "Does Lumen have a dark mode?", "answerable": false, "expected_facts": [], "expected_docs": []}
+{"id": "h11", "question": "How do I contact support by phone?", "answerable": false, "expected_facts": [], "expected_docs": []}
+{"id": "h12", "question": "Can I set a password on a single notebook?", "answerable": false, "expected_facts": [], "expected_docs": []}

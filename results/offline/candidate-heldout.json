@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "system": "offline",
+    "variant": "candidate",
+    "split": "heldout",
+    "model": "offline-candidate",
+    "system_version": "min_overlap=2",
+    "label": "fixture: deterministic offline substitute, not a model",
+    "dataset": "v1",
+    "dataset_sha": "28a4a15c83da",
+    "generated": "2026-10-15T06:37:11+00:00"
+  },
+  "metrics": {
+    "n": 12,
+    "success_rate": 0.583,
+    "schema_valid_rate": 1.0,
+    "answered": 7,
+    "evidence_support_rate": 0.571,
+    "correct_abstain_rate": 1.0,
+    "false_abstain_rate": 0.222,
+    "latency_ms_p50": 0.46,
+    "latency_ms_p95": 0.53,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0,
+    "cost_per_100_usd": 0.0
+  },
+  "items": [
+    {
+      "id": "h01",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": false,
+      "evidence_supported": null
+    },
+    {
+      "id": "h02",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "h03",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": false,
+      "evidence_supported": false
+    },
+    {
+      "id": "h04",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": false,
+      "evidence_supported": false
+    },
+    {
+      "id": "h05",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "h06",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "h07",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": false,
+      "evidence_supported": false
+    },
+    {
+      "id": "h08",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": false,
+      "evidence_supported": null
+    },
+    {
+      "id": "h09",
+      "answerable": true,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": false,
+      "success": true,
+      "evidence_supported": true
+    },
+    {
+      "id": "h10",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": true,
+      "evidence_supported": null
+    },
+    {
+      "id": "h11",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": true,
+      "evidence_supported": null
+    },
+    {
+      "id": "h12",
+      "answerable": false,
+      "schema_valid": true,
+      "schema_error": "",
+      "abstained": true,
+      "success": true,
+      "evidence_supported": null
+    }
+  ]
+}

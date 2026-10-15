@@ -1,0 +1,10 @@
+{
+  "decide_on_split": "heldout",
+  "min_success_delta": 0.0,
+  "min_schema_valid_rate": 1.0,
+  "min_evidence_support_rate": 0.9,
+  "max_false_abstain_rate": 0.15,
+  "max_new_failures": 1,
+  "max_cost_per_100_usd": 2.0,
+  "max_p95_latency_ms": 10000
+}

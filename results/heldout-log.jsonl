@@ -1,0 +1,2 @@
+{"generated": "2026-10-15T06:37:11+00:00", "system": "offline", "variant": "baseline", "model": "offline-baseline", "system_version": "always answers", "dataset_sha": "28a4a15c83da"}
+{"generated": "2026-10-15T06:37:11+00:00", "system": "offline", "variant": "candidate", "model": "offline-candidate", "system_version": "min_overlap=2", "dataset_sha": "28a4a15c83da"}

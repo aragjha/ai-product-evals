@@ -1,0 +1,17 @@
+{
+  "version": "v1",
+  "created": "2026-10-15",
+  "split_rule": "dev is for iterating; heldout is only for the release decision and is never used to tune",
+  "files": {
+    "corpus/account.md": "d6a2e1902089fd661cf16d58f8d48ea68e528309395ffb722536e3d520c8c6ae",
+    "corpus/billing.md": "b5b80b3216ab5ca82cf352d50a2048dff7955a541ca7f89799808d898b52a002",
+    "corpus/export.md": "39e3a6571d730c9bf88afbaeda89482345ff04b01fb7e808e614b9381797d564",
+    "corpus/offline.md": "1e0f54fe0813645851356250e77215cbdeca3ef231d6ddfdd67d74f9a34a77a1",
+    "corpus/security.md": "5bf5d5eb1a2af07e2ac131e32d266cbff5ec205131822750521da7e5154f7076",
+    "corpus/sharing.md": "6026511c3afb3ff387b4594e49a3b92d6bd7e73108ef565a4bbca9aeaf142804",
+    "corpus/sync.md": "f4e626d99637cedc618bc5177176a2309d8820431967bb74bfe5a328894f9996",
+    "corpus/trash.md": "ddb88c200b1536966717f759c662e2b12abd87dfde152dcd322f2576a976e2f4",
+    "dev.jsonl": "16509534a86024d9cc4995a1f9013a617533ee7349c7a1fd175b046bb9fe5c01",
+    "heldout.jsonl": "8fb92199402a484d37ac9fe827a28b32664e172ab2459a0a0d611e99175724aa"
+  }
+}

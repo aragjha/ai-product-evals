@@ -1,0 +1,16 @@
+{"id": "d01", "question": "How much does the Plus plan cost per month?", "answerable": true, "expected_facts": ["8 dollars"], "expected_docs": ["billing"]}
+{"id": "d02", "question": "Can I get a refund on a yearly plan?", "answerable": true, "expected_facts": ["14 days"], "expected_docs": ["billing"]}
+{"id": "d03", "question": "How many devices can I sync on the Free plan?", "answerable": true, "expected_facts": ["3 devices"], "expected_docs": ["sync"]}
+{"id": "d04", "question": "What happens when two devices edit the same note?", "answerable": true, "expected_facts": ["second copy"], "expected_docs": ["sync"]}
+{"id": "d05", "question": "Which formats can I export a notebook to?", "answerable": true, "expected_facts": ["markdown", "pdf"], "expected_docs": ["export"]}
+{"id": "d06", "question": "How long does the export download link last?", "answerable": true, "expected_facts": ["7 days"], "expected_docs": ["export"]}
+{"id": "d07", "question": "How many people can collaborate on a shared notebook?", "answerable": true, "expected_facts": ["20 collaborators"], "expected_docs": ["sharing"]}
+{"id": "d08", "question": "Who can delete a shared notebook?", "answerable": true, "expected_facts": ["owner"], "expected_docs": ["sharing"]}
+{"id": "d09", "question": "What kinds of two step sign in does Lumen support?", "answerable": true, "expected_facts": ["authenticator apps", "hardware security keys"], "expected_docs": ["security"]}
+{"id": "d10", "question": "How long do deleted notes stay in Trash?", "answerable": true, "expected_facts": ["30 days"], "expected_docs": ["trash"]}
+{"id": "d11", "question": "Does the web app work offline?", "answerable": true, "expected_facts": ["needs a connection"], "expected_docs": ["offline"]}
+{"id": "d12", "question": "Can I undo deleting my account?", "answerable": true, "expected_facts": ["grace period"], "expected_docs": ["account"]}
+{"id": "d13", "question": "Is there a Linux desktop app?", "answerable": false, "expected_facts": [], "expected_docs": []}
+{"id": "d14", "question": "Do you offer a student discount?", "answerable": false, "expected_facts": [], "expected_docs": []}
+{"id": "d15", "question": "Can I import notes from another app?", "answerable": false, "expected_facts": [], "expected_docs": []}
+{"id": "d16", "question": "What is the largest note I can create?", "answerable": false, "expected_facts": [], "expected_docs": []}
