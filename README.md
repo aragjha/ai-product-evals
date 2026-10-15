@@ -151,7 +151,7 @@ results/            saved fixture runs and reports
 ## Related
 
 - [claude-pm-os](https://github.com/aragjha/claude-pm-os): meeting notes to brief, tickets and QA with human gates and evals.
-- [clinical-extraction-lab](https://github.com/aragjha/clinical-extraction-lab): evidence span extraction with a reviewer workflow on synthetic records.
+- [evidence-review-lab](https://github.com/aragjha/evidence-review-lab): contract terms extracted with evidence spans, a reviewer queue and paired scoring, on invented contracts.
 
 ## Scope and privacy
 
